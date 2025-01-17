@@ -22,21 +22,21 @@
       },
       "nanoFramework.Iot.Device.Multiplexing": {
         "type": "Direct",
-        "requested": "[1.2.670, 1.2.670]",
-        "resolved": "1.2.670",
-        "contentHash": "D5cjhT6+WoxskW0YoULKljOsrM0C4A+dTsxrC6Y/xTNKmJZ6uf+5RqazeMeSZF8SrkA6B6sGzlLwM4Rws8NG4w=="
+        "requested": "[1.2.715, 1.2.715]",
+        "resolved": "1.2.715",
+        "contentHash": "VHVihax+DIMpwEopxCUVJEi+TdGFY14QCjSTqtc8G1F17W7oq6bY/aUarpQdUX08kGl9Rg0fZcMoU1Pcgywv+g=="
       },
       "nanoFramework.Iot.Device.Pcx857x": {
         "type": "Direct",
-        "requested": "[1.2.673, 1.2.673]",
-        "resolved": "1.2.673",
-        "contentHash": "yipnpZqFDfuFrrSTCRzzkHCPyLJ0Dd55HGhSLmgh3Kt5jojtVMmUpnJEdkFERiP4XGYMbTwIHTHQ4AStre3uZA=="
+        "requested": "[1.2.737, 1.2.737]",
+        "resolved": "1.2.737",
+        "contentHash": "x4HuIsdaaVO8kahpdGE9IPo0gwed+CrXbC6oCoeBw82ZK1LTWDJVkNh35Sh2a19chldvEbMiQYCPmtiM10DjYQ=="
       },
       "nanoFramework.Iot.Device.ShiftRegister": {
         "type": "Direct",
-        "requested": "[1.2.671, 1.2.671]",
-        "resolved": "1.2.671",
-        "contentHash": "mzMPuRnxSrBHjzRl5nBg8mxfL7lxulMXaOUaCTwAIU01UnKbeJseOmI35PZz1d9iLGytA3VTcyffxkmVpDQszQ=="
+        "requested": "[1.2.716, 1.2.716]",
+        "resolved": "1.2.716",
+        "contentHash": "dKG7+74/xmzquu8TLli6iw3s0lanzoEj5hiovwVEBOEKB9/WwrZDwI60hvbIOp2kJet4FXebyx2ch7hCcixX5Q=="
       },
       "nanoFramework.Runtime.Events": {
         "type": "Direct",
@@ -76,21 +76,21 @@
       },
       "nanoFramework.System.Diagnostics.Stopwatch": {
         "type": "Direct",
-        "requested": "[1.2.670, 1.2.670]",
-        "resolved": "1.2.670",
-        "contentHash": "4ricLROKKGRjoePNDNYptJqaoFy9FfYpS3QQrDxdBx5PjmMd5BRN6WqZTmlj1xi0TgN2YGmbG76tA+PhYCPZ6g=="
+        "requested": "[1.2.693, 1.2.693]",
+        "resolved": "1.2.693",
+        "contentHash": "kQZz3IkEjNg5MokmA2Xy2ddZQ66QwWLUAi+kbCwzUmf8CrPfmbly88zZQsSv66Dr7Nipw9QLUhcLatrsNJg6XQ=="
       },
       "nanoFramework.System.IO.FileSystem": {
         "type": "Direct",
-        "requested": "[1.1.54, 1.1.54]",
-        "resolved": "1.1.54",
-        "contentHash": "K1QPNbrksqw4yjQ/GXgz1Q0hZBi3zi1A8/FUAhYsq8bESVNUFjNpvxHPSDw1gV8DzEg5jH5e9Z2VrAncTQogFQ=="
+        "requested": "[1.1.69, 1.1.69]",
+        "resolved": "1.1.69",
+        "contentHash": "iuYGymz11Dlg6ebxGThhSBZErPyOgvNgBZSwCKGfZjsnEtFHnh0Gq8r/sl2TZoj4S/gm09bQNftwmP13/Rosaw=="
       },
       "nanoFramework.System.IO.Streams": {
         "type": "Direct",
-        "requested": "[1.1.59, 1.1.59]",
-        "resolved": "1.1.59",
-        "contentHash": "A8DSQ9ygUnhDltHsVuJjxs3aRrig9hmeEDZgAFfQ4roaaHpHS/IN1gwCEYcV+I6wfsnEnojn3FQJh43Iw07ukg=="
+        "requested": "[1.1.77, 1.1.77]",
+        "resolved": "1.1.77",
+        "contentHash": "zCEUBldDYkA1f02bdkz7VSLa/2NDRBtclS61ujcXs7IvfFcNF1qY2lLTCoPnznxAvJqPGoN49CbGbW9D4hJH3g=="
       },
       "nanoFramework.System.Math": {
         "type": "Direct",
@@ -106,9 +106,9 @@
       },
       "nanoFramework.System.Text": {
         "type": "Direct",
-        "requested": "[1.2.54, 1.2.54]",
-        "resolved": "1.2.54",
-        "contentHash": "k3OutSNRMs9di42LQ+5GbpHBY07aMEZWGkaS3Mj3ZU4cWqJc4deFGzRd+LBFQl1mRGdQaM5sl/euTZdcg8R9Zg=="
+        "requested": "[1.3.1, 1.3.1]",
+        "resolved": "1.3.1",
+        "contentHash": "6BFCg7LUeN0Xx1R4QQF6HKDb3BnihtYY7X47IIkfFmsIurJbu643HyidhTxG/BwK4UYWRMC/Io4s/KdsLs6WlA=="
       },
       "nanoFramework.System.Threading": {
         "type": "Direct",
