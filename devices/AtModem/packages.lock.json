@@ -10,15 +10,15 @@
       },
       "nanoFramework.Iot.Device.Common.GnssDevice": {
         "type": "Direct",
-        "requested": "[1.0.299, 1.0.299]",
-        "resolved": "1.0.299",
-        "contentHash": "WFEGsEHQy3bTu+5yO2fV7F+Br+Mp5zMupH8S+HXN8qrqMcl1u3nlafttg1ol5uwpYoCvdO4Uk4ZlYDF/Sm3sSA=="
+        "requested": "[1.0.344, 1.0.344]",
+        "resolved": "1.0.344",
+        "contentHash": "7LrLfqiw6qWLHBx6Jdv+hBmuVp/M4H3/6lnoYO8UzOeRHX09smzvAccCJB0HXXeT3C6VaRUmNCl+QbEJ98qOsw=="
       },
       "nanoFramework.M2Mqtt.Core": {
         "type": "Direct",
-        "requested": "[5.1.199, 5.1.199]",
-        "resolved": "5.1.199",
-        "contentHash": "rfbtn80ktvdnDFREcW+62A0GpZMqhKSVOEUAmh8R5zhDS9gIwAoaR1C1TDsA9Y67Z5cAfopbPFufl9zi1KaLGQ=="
+        "requested": "[5.1.215, 5.1.215]",
+        "resolved": "5.1.215",
+        "contentHash": "gNybBBk6BJ0hwt8aC/hq8g1aeWVknCD9SiZsMWJCPFLq1zEn5+2vwID4TGRYv5BcVTzAbKgVL8iHLK5SJDO31A=="
       },
       "nanoFramework.Runtime.Events": {
         "type": "Direct",
@@ -68,11 +68,23 @@
         "resolved": "1.1.52",
         "contentHash": "kv+US/+7QKV1iT/snxBh032vwZ+3krJ4vujlSsvmS2nNj/nK64R3bq/ST3bCFquxHDD0mog8irtCBCsFazr4kA=="
       },
+      "nanoFramework.UnitsNet.Angle": {
+        "type": "Direct",
+        "requested": "[5.76.15, 5.76.15]",
+        "resolved": "5.76.15",
+        "contentHash": "jev2jBYW8vqBdN5LkL0Uif3aOTTYf1dqA+JqFUkGchwOjBJmx0TW8ZDdN0GYSHWqWeuvCZQA0SYdaqSgTgjt4A=="
+      },
+      "nanoFramework.UnitsNet.Speed": {
+        "type": "Direct",
+        "requested": "[5.76.15, 5.76.15]",
+        "resolved": "5.76.15",
+        "contentHash": "1bH3svt6CX6jZzL2rCjwU+zSaFMr4Tqevtq6jzwdYt7TH6mZb83NcjENUOyQR2puJDHjjbZD4w+lYgAh4ec0gQ=="
+      },
       "Nerdbank.GitVersioning": {
         "type": "Direct",
-        "requested": "[3.8.118, 3.8.118]",
-        "resolved": "3.8.118",
-        "contentHash": "cRaG+ICcECG+CzbtQyUV2WftH7yl2B02AjYGGNScXx8TwYavZYwhCewBTiC0qTcsac7m6AzBUYna5xzBWmTGYw=="
+        "requested": "[3.9.50, 3.9.50]",
+        "resolved": "3.9.50",
+        "contentHash": "HtOgGF6jZ+WYbXnCUCYPT8Y2d6mIJo9ozjK/FINTRsXdm4Zgv9GehUMa7EFoGQkqrMcDJNOIDwCmENnvXg4UbA=="
       },
       "StyleCop.MSBuild": {
         "type": "Direct",
